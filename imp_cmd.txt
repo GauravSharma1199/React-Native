@@ -1,0 +1,9 @@
+React-Native important commands:---
+
+initialize a project:-- npx react-native init test_web_app --template react-native-template-typescript
+navigation imp:- $ react-native link react-native-safe-area-context
+remove node_module:- $ rm -rf node_modules
+$ npm cache clean --force
+$ npm install --force
+
+ 
